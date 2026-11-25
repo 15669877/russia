@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.user
+*.suo
+
+# Build output
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+obj/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.tlog
+
+# Editor / OS
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# Agent workspace
+.workbuddy/
+nul
